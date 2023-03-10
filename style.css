@@ -1,0 +1,58 @@
+body {
+  background-image: url("./images/Penguin.jpg");
+}
+/* Set background color and padding for the navigation menu */
+nav {
+  font-family: "Georgia", serif;
+    background-color: #333;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Style the links in the navigation menu */
+  nav a {
+    color: white;
+  }
+
+  h1 {
+    color: white;
+    font-family: "Georgia", serif;
+    background-color: rgba(0,0,0,0.4);
+    padding: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000;
+  }
+
+  ul, li {
+    font-family: "Georgia", serif;
+    text-align: center;
+    list-style: none;
+    color: white;
+    background-color: rgba(0,0,0,0.4);
+    padding: 10px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000;
+  }
+
+  dl, dt {
+    font-family: "Georgia", serif;
+    text-align: center;
+    list-style: none;
+    color: white;
+    background-color: rgba(0,0,0,0.4);
+    padding: 10px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000;
+  }
+
+  dt {
+    font-weight: bold;
+    margin-top: 1px;
+  }
+  dd {
+    margin-left: 10px;
+  }
+
+  p {
+    color: white;
+  }

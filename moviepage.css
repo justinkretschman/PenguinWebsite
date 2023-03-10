@@ -1,0 +1,25 @@
+body {
+    background-image: url("./images/Penguin.jpg");
+  }
+  /* Set background color and padding for the navigation menu */
+  nav {
+    font-family: "Georgia", serif;
+      background-color: #333;
+      background-size: cover;
+      background-position: center;
+    }
+    
+    /* Style the links in the navigation menu */
+    nav a {
+      color: white;
+    }
+  
+    p {
+      font-size: 100px;
+      color: #FFF;
+      text-align: center;
+    }
+
+    h1, h2 {
+        color: white;
+      }
